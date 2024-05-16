@@ -36,6 +36,6 @@
 
 13. Sistem Keamanan: Langkah-langkah keamanan yang diimplementasikan untuk melindungi informasi pengguna, data transaksi, dan integritas sistem secara keseluruhan. Ini termasuk enkripsi data, perlindungan terhadap serangan cyber, dan manajemen akses yang aman untuk melindungi privasi dan keamanan informasi pengguna.
 ## Use Case
-![img](gambar/1.png)<br>
+![img](gambar/2.png)<br>
 ## Demo Produk
 (https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FPoytdIurVBpR007aHvAkwB%2FRiyad-Store%3Fnode-id%3D190-543%26t%3DWyTXGSTR1jMkdik6-1%26scaling%3Dscale-down%26page-id%3D161%253A32)
